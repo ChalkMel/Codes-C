@@ -7,7 +7,7 @@ Amphibius amphibius = new Amphibius(120,"Amphicar" );
 amphibius.Sail();
 amphibius.Fly();
 
-Submarine submarine = new Submarine(45,"Акула", true);
+Submarine submarine = new Submarine(45,"Акула", false);
 submarine.Sail();
 submarine.IsUnderwater = true;
 submarine.Sail();
