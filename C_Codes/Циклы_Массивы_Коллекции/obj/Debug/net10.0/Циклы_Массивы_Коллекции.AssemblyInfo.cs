@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Циклы_Массивы_Коллекции")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48f4fdc76a6ba1db26f1544fb8256cd53f66419e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94b69b482ef621dad95fcbd4b5c48d08394f8489")]
 [assembly: System.Reflection.AssemblyProductAttribute("Циклы_Массивы_Коллекции")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Циклы_Массивы_Коллекции")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
