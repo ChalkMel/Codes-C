@@ -29,7 +29,7 @@ public class Triangle : Shape
   
   public override bool Try()
   {
-    if ((_sideA <= 0 || _sideB <= 0 || _sideC <= 0) && (_sideA + _sideB <= _sideC && _sideA + _sideC <= _sideB && _sideB + _sideC <= _sideA)) 
+    if ((_sideA <= 0 || _sideB <= 0 || _sideC <= 0) || (_sideA + _sideB <= _sideC && _sideA + _sideC <= _sideB && _sideB + _sideC <= _sideA)) 
       return false;
 
     return true;
