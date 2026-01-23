@@ -1,0 +1,14 @@
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\bin\Debug\net10.0\ООП.exe
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\bin\Debug\net10.0\ООП.deps.json
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\bin\Debug\net10.0\ООП.runtimeconfig.json
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\bin\Debug\net10.0\ООП.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\bin\Debug\net10.0\ООП.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ООП.AssemblyInfoInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ООП.AssemblyInfo.cs
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ООП.csproj.CoreCompileInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ООП.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\refint\ООП.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ООП.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ООП.genruntimeconfig.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\ООП\obj\Debug\net10.0\ref\ООП.dll

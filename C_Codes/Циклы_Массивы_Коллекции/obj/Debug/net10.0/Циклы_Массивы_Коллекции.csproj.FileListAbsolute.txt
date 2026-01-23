@@ -1,0 +1,14 @@
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\bin\Debug\net10.0\Циклы_Массивы_Коллекции.exe
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\bin\Debug\net10.0\Циклы_Массивы_Коллекции.deps.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\bin\Debug\net10.0\Циклы_Массивы_Коллекции.runtimeconfig.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\bin\Debug\net10.0\Циклы_Массивы_Коллекции.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\bin\Debug\net10.0\Циклы_Массивы_Коллекции.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\Циклы_Массивы_Коллекции.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\Циклы_Массивы_Коллекции.AssemblyInfoInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\Циклы_Массивы_Коллекции.AssemblyInfo.cs
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\Циклы_Массивы_Коллекции.csproj.CoreCompileInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\Циклы_Массивы_Коллекции.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\refint\Циклы_Массивы_Коллекции.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\Циклы_Массивы_Коллекции.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\Циклы_Массивы_Коллекции.genruntimeconfig.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Циклы_Массивы_Коллекции\obj\Debug\net10.0\ref\Циклы_Массивы_Коллекции.dll

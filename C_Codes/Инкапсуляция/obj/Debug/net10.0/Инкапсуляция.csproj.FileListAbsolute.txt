@@ -1,0 +1,14 @@
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\bin\Debug\net10.0\Инкапсуляция.exe
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\bin\Debug\net10.0\Инкапсуляция.deps.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\bin\Debug\net10.0\Инкапсуляция.runtimeconfig.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\bin\Debug\net10.0\Инкапсуляция.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\bin\Debug\net10.0\Инкапсуляция.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\Инкапсуляция.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\Инкапсуляция.AssemblyInfoInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\Инкапсуляция.AssemblyInfo.cs
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\Инкапсуляция.csproj.CoreCompileInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\Инкапсуляция.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\refint\Инкапсуляция.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\Инкапсуляция.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\Инкапсуляция.genruntimeconfig.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Инкапсуляция\obj\Debug\net10.0\ref\Инкапсуляция.dll

@@ -1,0 +1,14 @@
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\bin\Debug\net10.0\Интерфейсы.exe
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\bin\Debug\net10.0\Интерфейсы.deps.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\bin\Debug\net10.0\Интерфейсы.runtimeconfig.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\bin\Debug\net10.0\Интерфейсы.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\bin\Debug\net10.0\Интерфейсы.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\Интерфейсы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\Интерфейсы.AssemblyInfoInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\Интерфейсы.AssemblyInfo.cs
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\Интерфейсы.csproj.CoreCompileInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\Интерфейсы.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\refint\Интерфейсы.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\Интерфейсы.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\Интерфейсы.genruntimeconfig.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Интерфейсы\obj\Debug\net10.0\ref\Интерфейсы.dll

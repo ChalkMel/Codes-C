@@ -1,0 +1,14 @@
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\bin\Debug\net10.0\Абсратные классы.exe
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\bin\Debug\net10.0\Абсратные классы.deps.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\bin\Debug\net10.0\Абсратные классы.runtimeconfig.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\bin\Debug\net10.0\Абсратные классы.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\bin\Debug\net10.0\Абсратные классы.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\Абсратные классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\Абсратные классы.AssemblyInfoInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\Абсратные классы.AssemblyInfo.cs
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\Абсратные классы.csproj.CoreCompileInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\Абсратные классы.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\refint\Абсратные классы.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\Абсратные классы.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\Абсратные классы.genruntimeconfig.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Абсратные классы\obj\Debug\net10.0\ref\Абсратные классы.dll

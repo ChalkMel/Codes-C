@@ -1,0 +1,14 @@
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\bin\Debug\net10.0\Second.exe
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\bin\Debug\net10.0\Second.deps.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\bin\Debug\net10.0\Second.runtimeconfig.json
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\bin\Debug\net10.0\Second.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\bin\Debug\net10.0\Second.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\Second.AssemblyInfoInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\Second.AssemblyInfo.cs
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\Second.csproj.CoreCompileInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\Second.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\refint\Second.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\Second.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\Second.genruntimeconfig.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\Second\obj\Debug\net10.0\ref\Second.dll

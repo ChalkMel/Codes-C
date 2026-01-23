@@ -1,0 +1,14 @@
+C:\Users\Note\RiderProjects\ConsoleApp1\First\bin\Debug\net10.0\First.exe
+C:\Users\Note\RiderProjects\ConsoleApp1\First\bin\Debug\net10.0\First.deps.json
+C:\Users\Note\RiderProjects\ConsoleApp1\First\bin\Debug\net10.0\First.runtimeconfig.json
+C:\Users\Note\RiderProjects\ConsoleApp1\First\bin\Debug\net10.0\First.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\First\bin\Debug\net10.0\First.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\First.AssemblyInfoInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\First.AssemblyInfo.cs
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\First.csproj.CoreCompileInputs.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\First.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\refint\First.dll
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\First.pdb
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\First.genruntimeconfig.cache
+C:\Users\Note\RiderProjects\ConsoleApp1\First\obj\Debug\net10.0\ref\First.dll
