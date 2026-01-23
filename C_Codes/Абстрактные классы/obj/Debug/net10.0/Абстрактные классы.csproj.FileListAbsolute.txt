@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\bin\Debug\net10.0\Абстрактные классы.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\bin\Debug\net10.0\Абстрактные классы.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\bin\Debug\net10.0\Абстрактные классы.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\bin\Debug\net10.0\Абстрактные классы.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\bin\Debug\net10.0\Абстрактные классы.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\refint\Абстрактные классы.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\Абстрактные классы.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Абстрактные классы\obj\Debug\net10.0\ref\Абстрактные классы.dll

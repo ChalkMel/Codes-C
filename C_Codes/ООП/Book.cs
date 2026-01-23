@@ -12,6 +12,11 @@ public class Book
         Author = author;
         Available = available;
     }
+    public Book(string title, string author)
+    {
+        Title = title;
+        Author = author;
+    }
 
     public string Info()
     {

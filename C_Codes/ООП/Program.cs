@@ -2,9 +2,9 @@
 
 Book CrimeAndPunishment = new Book("Преступление и наказание", " Ф.М. Достоевский", true);
 Book Idiot = new Book("Идиот", "Ф.М. Достоевский", false);
-Book WarAndPeace = new Book("Война и мир", "Л.Н. Толстой", true);
+Book WarAndPeace = new Book("Война и мир", "Л.Н. Толстой");
 Book DeathOfOfficial = new Book("Смерть чиновника", "А.П.Чехов", false);
-Book WoeFromWit = new Book("Горе от ума", "А.С. Грибоедов", true);
+Book WoeFromWit = new Book("Горе от ума", "А.С. Грибоедов");
 
 Library myLibrary = new Library();
 
