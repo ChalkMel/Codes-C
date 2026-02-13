@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Абстрактные кл
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерфейсы", "Интерфейсы\Интерфейсы.csproj", "{01EBA742-D61A-4D38-B7D8-6DD8479C0497}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка_Обобщение", "Перегрузка_Обобщение\Перегрузка_Обобщение.csproj", "{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{01EBA742-D61A-4D38-B7D8-6DD8479C0497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01EBA742-D61A-4D38-B7D8-6DD8479C0497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01EBA742-D61A-4D38-B7D8-6DD8479C0497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

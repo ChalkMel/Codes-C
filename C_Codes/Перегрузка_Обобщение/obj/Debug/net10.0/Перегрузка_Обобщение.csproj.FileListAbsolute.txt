@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\bin\Debug\net10.0\Перегрузка_Обобщение.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\bin\Debug\net10.0\Перегрузка_Обобщение.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\bin\Debug\net10.0\Перегрузка_Обобщение.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\bin\Debug\net10.0\Перегрузка_Обобщение.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\bin\Debug\net10.0\Перегрузка_Обобщение.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\refint\Перегрузка_Обобщение.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\Перегрузка_Обобщение.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Перегрузка_Обобщение\obj\Debug\net10.0\ref\Перегрузка_Обобщение.dll
