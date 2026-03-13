@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\bin\Debug\net10.0\Отладка. Поиск ошибок в коде.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\bin\Debug\net10.0\Отладка. Поиск ошибок в коде.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\bin\Debug\net10.0\Отладка. Поиск ошибок в коде.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\bin\Debug\net10.0\Отладка. Поиск ошибок в коде.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\bin\Debug\net10.0\Отладка. Поиск ошибок в коде.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\refint\Отладка. Поиск ошибок в коде.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\Отладка. Поиск ошибок в коде.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка. Поиск ошибок в коде\obj\Debug\net10.0\ref\Отладка. Поиск ошибок в коде.dll

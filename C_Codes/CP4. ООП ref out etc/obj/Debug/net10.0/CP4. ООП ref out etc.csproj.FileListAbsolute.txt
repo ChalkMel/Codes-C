@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\bin\Debug\net10.0\CP4. ООП ref out etc.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\bin\Debug\net10.0\CP4. ООП ref out etc.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\bin\Debug\net10.0\CP4. ООП ref out etc.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\bin\Debug\net10.0\CP4. ООП ref out etc.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\bin\Debug\net10.0\CP4. ООП ref out etc.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\refint\CP4. ООП ref out etc.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\CP4. ООП ref out etc.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\CP4. ООП ref out etc\obj\Debug\net10.0\ref\CP4. ООП ref out etc.dll

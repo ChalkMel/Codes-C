@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\bin\Debug\net10.0\Отладка.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\bin\Debug\net10.0\Отладка.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\bin\Debug\net10.0\Отладка.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\bin\Debug\net10.0\Отладка.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\bin\Debug\net10.0\Отладка.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\refint\Отладка.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\Отладка.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Отладка\obj\Debug\net10.0\ref\Отладка.dll

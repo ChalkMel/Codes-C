@@ -12,6 +12,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Интерфейсы", "И�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка_Обобщение", "Перегрузка_Обобщение\Перегрузка_Обобщение.csproj", "{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP4. ООП ref out etc", "CP4. ООП ref out etc\CP4. ООП ref out etc.csproj", "{8D374859-9821-46DC-BE90-1A7A36BC0D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Отладка", "Отладка\Отладка.csproj", "{59774091-7B30-49C6-AA8F-AADE29FA7F9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAA5B99C-EFB4-4C9F-956F-04CADBB4377B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D374859-9821-46DC-BE90-1A7A36BC0D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D374859-9821-46DC-BE90-1A7A36BC0D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D374859-9821-46DC-BE90-1A7A36BC0D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D374859-9821-46DC-BE90-1A7A36BC0D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59774091-7B30-49C6-AA8F-AADE29FA7F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59774091-7B30-49C6-AA8F-AADE29FA7F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59774091-7B30-49C6-AA8F-AADE29FA7F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59774091-7B30-49C6-AA8F-AADE29FA7F9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Отладка. Поиск ошибок в коде/1.0.0": {
+        "runtime": {
+          "Отладка. Поиск ошибок в коде.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Отладка. Поиск ошибок в коде/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
