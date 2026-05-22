@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\bin\Debug\net10.0\Создание и использование делегатов.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\bin\Debug\net10.0\Создание и использование делегатов.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\bin\Debug\net10.0\Создание и использование делегатов.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\bin\Debug\net10.0\Создание и использование делегатов.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\bin\Debug\net10.0\Создание и использование делегатов.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\refint\Создание и использование делегатов.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\Создание и использование делегатов.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Создание и использование делегатов\obj\Debug\net10.0\ref\Создание и использование делегатов.dll

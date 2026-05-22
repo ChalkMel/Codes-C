@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\bin\Debug\net10.0\Работа с событиями.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\bin\Debug\net10.0\Работа с событиями.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\bin\Debug\net10.0\Работа с событиями.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\bin\Debug\net10.0\Работа с событиями.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\bin\Debug\net10.0\Работа с событиями.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\refint\Работа с событиями.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\Работа с событиями.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Работа с событиями\obj\Debug\net10.0\ref\Работа с событиями.dll

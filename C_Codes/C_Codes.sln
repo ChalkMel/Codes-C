@@ -20,6 +20,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 Исключения", "5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{A3936C82-3C47-4680-9E07-59D1DCCB3C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Создание и использование делегатов", "Создание и использование делегатов\Создание и использование делегатов.csproj", "{2A57CE3F-930A-45DE-98F9-3AE5CC51C3B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Работа с событиями", "Работа с событиями\Работа с событиями.csproj", "{ACCD0389-98A0-4CF6-952C-DB74981B87DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{A3936C82-3C47-4680-9E07-59D1DCCB3C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3936C82-3C47-4680-9E07-59D1DCCB3C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3936C82-3C47-4680-9E07-59D1DCCB3C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A57CE3F-930A-45DE-98F9-3AE5CC51C3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A57CE3F-930A-45DE-98F9-3AE5CC51C3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A57CE3F-930A-45DE-98F9-3AE5CC51C3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A57CE3F-930A-45DE-98F9-3AE5CC51C3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCD0389-98A0-4CF6-952C-DB74981B87DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCD0389-98A0-4CF6-952C-DB74981B87DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCD0389-98A0-4CF6-952C-DB74981B87DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCD0389-98A0-4CF6-952C-DB74981B87DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

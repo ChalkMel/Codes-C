@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("5 Исключения")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Работа с событиями")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fcbccd9a928734ef4772bb11016c497380b8602")]
-[assembly: System.Reflection.AssemblyProductAttribute("5 Исключения")]
-[assembly: System.Reflection.AssemblyTitleAttribute("5 Исключения")]
+[assembly: System.Reflection.AssemblyProductAttribute("Работа с событиями")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Работа с событиями")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

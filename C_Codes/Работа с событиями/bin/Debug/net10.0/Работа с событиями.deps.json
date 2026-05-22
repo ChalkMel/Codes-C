@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Работа с событиями/1.0.0": {
+        "runtime": {
+          "Работа с событиями.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Работа с событиями/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
