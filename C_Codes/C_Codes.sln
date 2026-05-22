@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Создание и исп�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Работа с событиями", "Работа с событиями\Работа с событиями.csproj", "{ACCD0389-98A0-4CF6-952C-DB74981B87DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Асинхронное программирование", " Асинхронное программирование\Асинхронное программирование.csproj", "{52C69C66-83A3-4751-8071-5415BD3B0940}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{ACCD0389-98A0-4CF6-952C-DB74981B87DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACCD0389-98A0-4CF6-952C-DB74981B87DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACCD0389-98A0-4CF6-952C-DB74981B87DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C69C66-83A3-4751-8071-5415BD3B0940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C69C66-83A3-4751-8071-5415BD3B0940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C69C66-83A3-4751-8071-5415BD3B0940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C69C66-83A3-4751-8071-5415BD3B0940}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
