@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CP4. ООП ref out etc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59a0c57efb8a9e82a27eaec17391e0ebeed7a870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0139c3c096fd5f595691edec852d5f11ae38904")]
 [assembly: System.Reflection.AssemblyProductAttribute("CP4. ООП ref out etc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CP4. ООП ref out etc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

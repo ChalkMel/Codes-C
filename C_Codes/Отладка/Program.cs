@@ -79,7 +79,7 @@ namespace DebugTraining
                 if (avg >= bestAverage) 
                 {
                     bestAverage = avg;
-                    bestIndex = i; // меняем i+1 на просто i, чтобы выводился правельный ученик
+                    bestIndex = i; // меняем i+1 на просто i, чтобы выводился правильный ученик
                 }
             }
             return names[bestIndex];

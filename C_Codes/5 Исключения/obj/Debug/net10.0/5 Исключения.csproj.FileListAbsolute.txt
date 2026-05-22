@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\bin\Debug\net10.0\5 Исключения.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\bin\Debug\net10.0\5 Исключения.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\bin\Debug\net10.0\5 Исключения.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\bin\Debug\net10.0\5 Исключения.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\bin\Debug\net10.0\5 Исключения.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\refint\5 Исключения.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\5 Исключения.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\5 Исключения\obj\Debug\net10.0\ref\5 Исключения.dll
