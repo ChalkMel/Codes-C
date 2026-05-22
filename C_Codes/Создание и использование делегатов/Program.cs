@@ -26,13 +26,9 @@ class Program
       Console.WriteLine(word);
     }
     
-    string[] reversedWords = ProcessStrings(words, str => 
-    {
-      string result = "";
-      for (int i = str.Length - 1; i >= 0; i--)
-        result += str[i];
-      return result;
-    });
+    string[] reversedWords = ProcessStrings(words, 
+      str => new string(str.Reverse().ToArray())
+    );
     
     Console.WriteLine("\n2:");
     foreach (string word in reversedWords)
