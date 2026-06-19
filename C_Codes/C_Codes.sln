@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Работа с событ�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Асинхронное программирование", " Асинхронное программирование\Асинхронное программирование.csproj", "{52C69C66-83A3-4751-8071-5415BD3B0940}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Итоговая", "Итоговая\Итоговая.csproj", "{3C14A955-B824-441C-A7C7-9D682AE661D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{52C69C66-83A3-4751-8071-5415BD3B0940}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52C69C66-83A3-4751-8071-5415BD3B0940}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52C69C66-83A3-4751-8071-5415BD3B0940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C14A955-B824-441C-A7C7-9D682AE661D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C14A955-B824-441C-A7C7-9D682AE661D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C14A955-B824-441C-A7C7-9D682AE661D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C14A955-B824-441C-A7C7-9D682AE661D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

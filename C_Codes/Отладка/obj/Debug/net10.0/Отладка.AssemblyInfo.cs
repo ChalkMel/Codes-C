@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Отладка")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0139c3c096fd5f595691edec852d5f11ae38904")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c0804c6f200f8de8d86d25cfde1a854eec0acf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Отладка")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Отладка")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

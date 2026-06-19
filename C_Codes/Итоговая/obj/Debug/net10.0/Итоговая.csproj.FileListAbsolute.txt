@@ -1,0 +1,15 @@
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\bin\Debug\net10.0\Итоговая.exe
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\bin\Debug\net10.0\Итоговая.deps.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\bin\Debug\net10.0\Итоговая.runtimeconfig.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\bin\Debug\net10.0\Итоговая.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\bin\Debug\net10.0\Итоговая.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.AssemblyInfoInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.AssemblyInfo.cs
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.csproj.CoreCompileInputs.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.sourcelink.json
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\refint\Итоговая.dll
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.pdb
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\Итоговая.genruntimeconfig.cache
+C:\Users\Note\Documents\GitHub\Codes-C\C_Codes\Итоговая\obj\Debug\net10.0\ref\Итоговая.dll

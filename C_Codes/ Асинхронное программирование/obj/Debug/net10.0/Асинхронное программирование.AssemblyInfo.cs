@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Асинхронное программирование")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f219aa6377b0ed11ffdf16a1e25c71b17f7928f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c0804c6f200f8de8d86d25cfde1a854eec0acf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Асинхронное программирование")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Асинхронное программирование")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

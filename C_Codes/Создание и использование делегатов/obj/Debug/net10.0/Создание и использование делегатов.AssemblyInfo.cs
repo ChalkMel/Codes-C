@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Создание и использование делегатов")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d025f6f809f94586ae97d14be5ab0aca5646b31c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4c0804c6f200f8de8d86d25cfde1a854eec0acf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Создание и использование делегатов")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Создание и использование делегатов")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
